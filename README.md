@@ -31,7 +31,8 @@ In the second lecture, we will dive into an in-depth analysis of differentiable 
 * [LECTURE2.md](LECTURE2.md): Reading material and video lectures
 * [LAB2.md](LAB2.md): Lab session and short report assignment __(deadline: Sunday, April 18)__
 
-## Lecture 3: Deep Learning with 3D 
+## Lecture 3: 3D Deep Learning
+_Lecturer: Georgia Gkioxari_
 
 In the third lecture, we will cover more topics and applications on 3D deep learning.
 
@@ -39,7 +40,7 @@ In the third lecture, we will cover more topics and applications on 3D deep lear
 
 ## Quiz
 
-* [Quiz.md](QUIZ.md): A test with multiple-choice questions on the material covered __(deadline: Sunday, April 18)__
+* [QUIZ.md](QUIZ.md): A test with multiple-choice questions on the material covered __(deadline: Sunday, April 18)__
 
 # Schedule
 
