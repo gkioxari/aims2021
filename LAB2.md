@@ -22,8 +22,8 @@ In Part 3B of [tutorial][py3dlab], you are asked to deform the vertices of an in
 
 1. Briefly explain what the difference of *textured rendering* is compared to *silhouette rendering*. 
 2. Instead of `TexturesVertex`, replace the texture type of the source mesh with [`TexturesUV`][textuv]. 
-	a. Briefly describe what `TexturesUV` is and how it is different from `TexturesVertex`
-	b. Provide the predicted `UV` texture map that you learnt when learning to optimize shape and texture via textured rendering with a `TexturesUV` texture type.
+    1. Briefly describe what `TexturesUV` is and how it is different from `TexturesVertex`
+    2. Provide the predicted `UV` texture map that you learnt when learning to optimize shape and texture via textured rendering with a `TexturesUV` texture type.
 
 ### Helpful material
 
