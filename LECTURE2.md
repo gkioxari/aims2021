@@ -3,8 +3,8 @@
 ## Reading Material
 
 * [Neural Mesh Renderer](nmr), Kato et al, ECCV 2018 
-* [SoftRas](softras), Liu et al, ICCV 2019
-* [PyTorch3D](py3d), Ravi et al, tech
+* [SoftRasterizer](softras), Liu et al, ICCV 2019
+* [Accelerating 3D Deep Learning with PyTorch3D](py3d), Ravi et al, Tech Report, ArXiv 2020
 * [SynSin: End-to-end View Synthesis from a Single Image](synsin), Wiles et al, CVPR 2020
 
 ## Video Lectures
