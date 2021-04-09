@@ -1,4 +1,4 @@
-# Lecture 1: 3D representations, 3D object shape from images
+# Lecture 1: 3D representations & 3D shape from images
 
 ## Reading Material
 
@@ -11,12 +11,13 @@
 
 ## Video Lectures
 
-* [3D Vision][vid2]
-* [Tutorial at CVPR 2020][vid1] 
+* [3D Vision][vid1]
+* [3DV Seminar][vid2] 
+* [NeRF][vid3]
 
-
-[vid1]: https://www.youtube.com/watch?v=3dNquSS4T_4
-[vid2]: http://leccap.engin.umich.edu/leccap/viewer/r/VBqXlM
+[vid1]: http://leccap.engin.umich.edu/leccap/viewer/r/VBqXlM
+[vid2]: https://www.youtube.com/watch?v=gXLpy3jd2mQ
+[vid3]: https://www.youtube.com/watch?v=nRyOzHpcr4Q
 [meshrcnn]: https://arxiv.org/abs/1906.02739
 [r2n2]: https://arxiv.org/abs/1604.00449
 [occnet]: https://arxiv.org/abs/1812.03828
