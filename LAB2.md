@@ -32,7 +32,7 @@ In Part 3B of [tutorial][py3dlab], you are asked to deform the vertices of an in
     2. Save and visualize the `UV` texture map that you learnt when learning to optimize shape and texture via textured rendering with a `TexturesUV` texture type. (The texture map can be saved as an image.) What do you observe?
 
 
-### Helpful Material
+## Helpful Material
 
 * This short video [lecture][lecture] might be of help.
 * The PyTorch3D [texturing API documentation][texdocs] might also be useful. 
