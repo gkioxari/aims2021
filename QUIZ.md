@@ -9,6 +9,7 @@ Q3: 3, 4
 Upload your answers to this [dropbox link][dropbox] by Sunday, April 18. 
 
 # Test
+
 ### Question 1
 A mesh is a collection of points without any connectivity between the points
   1. True
@@ -35,7 +36,7 @@ The chamfer distance measures the distance between
   2. False
 
 ### Question 6
-In [Mesh R-CNN][meshrcnn], the topology of the predicted object is defined by the mesh-refinement branch
+In [Mesh R-CNN][meshrcnn], the topology of the predicted object is defined by the mesh refinement branch
   1. True
   2. False
 
@@ -88,6 +89,33 @@ In [Mesh R-CNN][meshrcnn], a mesh subdivision followed by a graph convolution re
   2. decreasing the receiptive field
   3. none of the above
 
+### Question 16
+Parametric models like [SMPL][smpl] represent shape with a set of vertices and faces
+  1. True
+  2. False
+
+### Question 17
+[NeRF][nerf] maps a `(x,y,z)` point and a `(θ, φ)` viewing direction to a `(r, g, b)` color value and a density `σ` with a sequence of fully connected layers
+  1. True
+  2. False
+
+### Question 18
+During training, [NeRF][nerf] requires a set of image views and unknown camera transforms across views
+  1. True
+  2. False
+
+### Question 19
+At test time, [NeRF][nerf] synthesizes novel views of novel scenes, unseen at train time
+  1. True
+  2. False
+
+### Question 20
+If [NeRF][nerf] shoots `N` rays and samples `P` points on each ray, then how many forward passes through the NeRF model are needed to synthesize a novel view
+  1. `N * P * P`
+  2. `N * P`
+  3. `N`
+  4. `P`
+
 
 [dropbox]: https://www.dropbox.com/request/mdR1orxLo5hPs4wbkStV
 [nmr]: https://arxiv.org/abs/1711.07566
@@ -97,5 +125,6 @@ In [Mesh R-CNN][meshrcnn], a mesh subdivision followed by a graph convolution re
 [synsin]: https://arxiv.org/abs/1912.08804
 [psg]: https://arxiv.org/abs/1612.00603
 [pointnet]: https://arxiv.org/abs/1612.00593
-
+[smpl]: https://files.is.tue.mpg.de/black/papers/SMPL2015_fixed.pdf
+[nerf]: https://arxiv.org/abs/2003.08934
 

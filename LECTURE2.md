@@ -13,8 +13,8 @@
 * [PyTorch3D overview 2][vid2] 
 
 
-[vid1]: https://www.youtube.com/watch?v=hgBk9WlF-XA
-[vid2]: https://www.youtube.com/watch?v=MOBAJb5nJRI&t=8189s
+[vid1]: https://youtu.be/hgBk9WlF-XA
+[vid2]: https://youtu.be/MOBAJb5nJRI
 [nmr]: https://arxiv.org/abs/1711.07566
 [synsin]: https://arxiv.org/abs/1912.08804
 [py3d]: http://arxiv.org/abs/2007.08501

@@ -2,7 +2,7 @@
 
 In this lab session, we will familiarize ourselves with 3D data structures and differentiable 3D operators. 
 In this exercise, we will learn how to deform an initial 3D mesh shape (e.g. sphere) to a target 3D mesh shape (e.g. dolphin). 
-We will be following the PyTorch3D [tutorial][py3dlab].
+This lab uses the PyTorch3D [tutorial][py3dlab].
 
 ## Prerequisites
 * [Colab][colab]: We will use colab notebooks to run the tutorials. This is essential as the models will run much faster on the colab GPU compared to your personal laptops (which only have CPU). 
@@ -27,7 +27,7 @@ The initial sphere mesh, which you deform in the tutorial, is an `ico-4` sphere 
 1. How many vertices and how many faces does `src_mesh` have?
 2. What happens if you set the level of the sphere to be 1, i.e. `src_mesh = ico_sphere(1, device)`. How many vertices and faces does the shape have now? Discuss the quality of the predicted shape and the convergence rate when you initialize the shape with an `ico-1` sphere.
 
-## Helpful material
+## Helpful Material
 
 This short [video lecture][lecture] will be of help.
 
