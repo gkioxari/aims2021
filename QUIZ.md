@@ -15,12 +15,12 @@ A mesh is a collection of points without any connectivity between the points
   2. False 
 
 ### Question 2
-Which 3D representation is most efficient when aiming to capture high resolution object shapes
+Which 3D representation is most efficient when aiming to capture high resolution object shapes?
   1. Voxels
   2. Pointclous 
 
 ### Question 3
-You have a shape which consists of parts of fine structure. What is the most appropriate 3D representation 
+You have a shape which consists of parts of fine structure. What is the most appropriate 3D representation?
   1. Voxels
   2. Meshes
 
@@ -53,7 +53,7 @@ When training models that predict meshes, adding shape regularizers to the objec
 A distance between two pointclouds can be used as a distance between two meshes via
   1. differentiable mesh rendering
   2. differentiable point sampling on the mesh faces
-  3. converting pointclouds and meshs to voxels
+  3. converting pointclouds and meshes to voxels
 
 ### Question 10
 [Pointnet][pointnet] takes as input 2D images and predicts 3D pointclouds
@@ -78,7 +78,7 @@ Differentiable mesh rendering allows for gradients to propagate back from a 2D l
 
 ### Question 14
 In [NMR][nmr], the 3D shapes are predicted by computing a loss between
-  1. 2D shilhouettes
+  1. 2D silhouettes
   2. 3D pointclouds
   3. 3D meshes
 
